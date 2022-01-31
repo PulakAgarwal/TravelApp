@@ -1,0 +1,6 @@
+module Pods_travelapp {
+  umbrella header "Pods-travelapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
