@@ -63,7 +63,7 @@ function NewCityPage({ navigation }) {
 
   const styles = StyleSheet.create({
     container: { flex: 1, padding: 16, paddingTop: 30, backgroundColor: '#fff' },
-    head: { height: 40, backgroundColor: '#f1f8ff' },
+    head: { height: 40, backgroundColor: '#E8F2FB' },
     text: { margin: 6 }
   });
 
